@@ -20,7 +20,7 @@ To run this simulation, you will need to have Python and the following libraries
 
 **stable-baselines3:** An implementation of popular reinforcement learning algorithms, including PPO, which is used for training the robot.
 
-File Sequence
+## File Sequence
 
 The project is structured as a Python package. Here is the purpose of each main file:
 
@@ -34,7 +34,7 @@ The project is structured as a Python package. Here is the purpose of each main 
 
 **__init__.py:** A standard Python file that marks the hexapod_env directory as a Python package.
 
-Installation on Windows
+## Installation on Windows
 
 Install Python:
 Download and install Python from the official website: https://www.python.org/downloads/
@@ -47,7 +47,7 @@ pip install gymnasium
 pip install stable-baselines3
 
 
-Installation on Arch Linux
+## Installation on Arch Linux
 Install Python:
 Python is usually pre-installed on Arch Linux. If not, you can install it using pacman:
 sudo pacman -S python
@@ -61,7 +61,7 @@ pip install gymnasium
 pip install stable-baselines3
 
 
-Usage
+## Usage
 Once you have installed all the dependencies, you can run the simulation by executing the main.py script.
 python main.py
 
