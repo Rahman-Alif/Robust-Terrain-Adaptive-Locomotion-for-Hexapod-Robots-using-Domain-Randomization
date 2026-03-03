@@ -8,7 +8,7 @@ This project focuses on training a hexapod robot to walk robustly over various t
 > 
 > **Original Repository:** [totondot/Robust-Terrain-Adaptive-Locomotion...](https://github.com/totondot/Robust-Terrain-Adaptive-Locomotion-for-Hexapod-Robots-using-Domain-Randomization)
 
-#Prerequisites
+## Prerequisites
 
 To run this simulation, you will need to have Python and the following libraries installed.
 
