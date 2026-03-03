@@ -2,12 +2,6 @@
 
 This project focuses on training a hexapod robot to walk robustly over various terrains. It utilizes the PyBullet physics engine for simulation and a reinforcement learning framework, specifically Proximal Policy Optimization (PPO), to achieve terrain-adaptive locomotion through domain randomization.
 
-> [!NOTE] 
-> **Project Provenance:** This repository is a mirror created for preservation and portfolio purposes. 
-> The original project was co-developed by **[Alif Rahman](https://github.com/Rahman-Alif)** and **[Abrar Zahin](https://github.com/totondot)**.
-> 
-> **Original Repository:** [totondot/Robust-Terrain-Adaptive-Locomotion...](https://github.com/totondot/Robust-Terrain-Adaptive-Locomotion-for-Hexapod-Robots-using-Domain-Randomization)
-
 Prerequisites
 
 To run this simulation, you will need to have Python and the following libraries installed.
